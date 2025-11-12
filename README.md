@@ -1,6 +1,6 @@
 # CPU & Memory Simulator
 
-This project is a cycle-accurate CPU and cache simulator written in C++. It models a low-level processor architecture (E20 Processor) and configurable caches (E20 Cache), providing a platform to study instruction execution, memory access, and caching behavior.
+This project is a cycle-accurate CPU and cache simulator written in C++. It models a low-level processor architecture (E20 Processor) and configurable caches (E20 Cache), providing a platform to study instruction execution, memory access, and caching behavior. The E20 assembly language used by this simulator was originally developed by NYU Tandon for educational purposes.
 
 ## Features
 
